@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome 😉 </h1>
 
-[![](https://visitcount.itsvg.in/api?id=MobinDeveloper&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PhoenixSys&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mobin_dev) 
@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=MobinDeveloper&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MobinDeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PhoenixSys&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
